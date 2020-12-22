@@ -1,0 +1,22 @@
+{
+  "name": "lightbox-jquery",
+  "version": "1.0.0",
+  "description": "Simple photo gallery app, using the Lightbox library.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/doge33/lightbox-jQuery.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/doge33/lightbox-jQuery/issues"
+  },
+  "homepage": "https://github.com/doge33/lightbox-jQuery#readme",
+  "dependencies": {
+    "lightbox2": "^2.11.3"
+  }
+}
